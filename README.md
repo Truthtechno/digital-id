@@ -57,6 +57,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ```
 
-## Support me
 
-<a href="https://www.vishnuraghav.com/donate/"><img alt="Donate to Vishnu Raghav" src="assets/images/donate.svg" width="207"></a>
